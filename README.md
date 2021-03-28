@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexandruIvan1995
+- 👋 Hi, I’m Alexandru Ivan
 - 👀 I’m interested in The Matrix
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any kind of project.
