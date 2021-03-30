@@ -1,31 +1,34 @@
-- 👋 Hi there, I'm Alexandru Ivan 👋
+👋 Hi there, I'm Alexandru Ivan 👋
+
 Currently a coding boocamp student:
 
 🔭 Bootcamp: Nucamp Coding Bootcamp ...
 
-⚡ Current Languages:
+⚡ Current Languages : 
 
-HTML5
+   HTML5
 
-CSS3
+   CSS3
 
-JavaScript
+   JavaScript
 
-Bootstrap
+   Bootstrap
 
-jQuery
+   jQuery
 
-ReactJS
+   ReactJS
 
-Git
+   Git
 
-⚡ Why I code:
+⚡ Why I code :
 
-I wan't to help solve problems and help make an impact on the world through technology
+   I wan't to help solve problems and help make an impact on the world through technology
 
-I have a dream of starting a tech company one day
+   I have a dream of starting a tech company one day
 
-- 📫 How to reach me https://www.linkedin.com/in/alexandruivan369/
+📫 How to reach me :
+   
+   https://www.linkedin.com/in/alexandruivan369/
 
 <!---
 alexandruIvan1995/alexandruIvan1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
