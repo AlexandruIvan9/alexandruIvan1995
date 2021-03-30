@@ -22,7 +22,7 @@ Currently a coding boocamp student:
 
 ⚡ Why I code :
 
-   I wan't to help solve problems and help make an impact on the world through technology
+   I want to help solve problems and help make an impact on the world through technology
 
    I have a dream of starting a tech company one day
 
