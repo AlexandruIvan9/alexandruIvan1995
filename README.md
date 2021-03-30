@@ -1,7 +1,30 @@
-- 👋 Hi, I’m Alexandru Ivan
-- 👀 I’m interested in The Matrix
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any kind of project.
+- 👋 Hi there, I'm Alexandru Ivan 👋
+Currently a coding boocamp student:
+
+🔭 Bootcamp: Nucamp Coding Bootcamp ...
+
+⚡ Current Languages:
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Bootstrap
+
+jQuery
+
+ReactJS
+
+Git
+
+⚡ Why I code:
+
+I wan't to help solve problems and help make an impact on the world through technology
+
+I have a dream of starting a tech company one day
+
 - 📫 How to reach me https://www.linkedin.com/in/alexandruivan369/
 
 <!---
