@@ -1,6 +1,6 @@
 👋 Hi there, I'm Alexandru Ivan 👋
 
-🔭 Currently a coding boocamp student:
+🔭 Currently a coding boocamp student
 
 ⚡ Current Languages : 
 
