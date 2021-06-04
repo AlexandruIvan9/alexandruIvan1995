@@ -1,8 +1,6 @@
 👋 Hi there, I'm Alexandru Ivan 👋
 
-Currently a coding boocamp student:
-
-🔭 Bootcamp: Nucamp Coding Bootcamp ...
+🔭 Currently a coding boocamp student:
 
 ⚡ Current Languages : 
 
