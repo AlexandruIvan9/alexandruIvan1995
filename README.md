@@ -14,7 +14,9 @@
 
    jQuery
 
-   ReactJS
+   React
+   
+   ReactNative
 
    Git
 
