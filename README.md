@@ -24,8 +24,6 @@
 
    I want to help solve problems and make an impact on the world through technology
 
-   I have a dream of starting a tech company one day
-
 📫 How to reach me :
    
    https://www.linkedin.com/in/alexandruivan369/
