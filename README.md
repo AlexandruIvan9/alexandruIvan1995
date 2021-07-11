@@ -4,25 +4,7 @@
 
 ⚡ Current Languages : 
 
-   HTML5
-
-   CSS3
-
-   JavaScript
-
-   Bootstrap
-
-   jQuery
-
-   React
-   
-   ReactNative
-   
-   NodeJS
-   
-   MongoDB
-   
-   Git
+   HTML5, CSS3, JavaScript, Bootstrap, jQuery, React, ReactNative, NodeJS, MongoDB, Git
 
 ⚡ Why I code :
 
