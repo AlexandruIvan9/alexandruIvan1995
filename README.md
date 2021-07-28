@@ -1,4 +1,4 @@
-👋 Hi there, I'm Alexandru Ivan 👋
+👋 Hi there
 
 ⚡ Current Languages : 
 
